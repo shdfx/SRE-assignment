@@ -1,5 +1,7 @@
 # SRE-assignment
 
+I created this repo as the submission of the assignment. While working, I had some files such as the app files and Dockerfile stored in another temp repo. That repo can be found at various places throughout the assignment and can also be viewed [here](github.com/shdfx/test1)
+
 ## Part 1
 
 Once I read through the assignment, I decided to use the Jenkins CI tool for the first part of the process. I decied to set up a pipleline in Jenkins that will build the Docker image and then upload it to the DockerHub so I would be able to pull it in the Kubernetes later on. 
